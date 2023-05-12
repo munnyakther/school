@@ -1,0 +1,62 @@
+@media(max-width:576px) {
+
+    .navbar-nav{
+        text-align: center;
+    }
+    .hero-content h5{
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+
+        display: initial;
+    }
+    .nav-item{
+        margin-bottom: 12px;
+    }
+    .hero-content{
+        text-align: center;
+    }
+    .hero-content h1 {
+       
+        font-size: 39px;
+        
+    }
+    .hero-content p {
+        margin-bottom: 20px;
+    }
+    .btn-custom {
+        
+        text-decoration: none;
+        border: 2px solid black;
+        margin-bottom: 20px;
+    }
+    .picture{
+        display: none;
+    }
+    .picture-1{
+        display: block;
+
+        margin: auto;
+        width: 247px;
+
+    }
+    .feature-content{
+        margin-bottom: 20px;
+    }
+    .heading h1 {
+        font-size: 28px;
+        
+    }
+    .client{
+        max-width: 30%;
+    }
+    .testimonial p {
+        
+        font-size: 14px;
+    }
+    footer ul {
+        
+        text-align: center;
+        margin-bottom: 20px;
+    }
+}
